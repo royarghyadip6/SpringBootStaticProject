@@ -1,6 +1,6 @@
-Import the project in eclipse/STS
+# Import the project into Eclipse/STS
 Import >Git >Project from Git >Clone URI >In URI paste project link >Next >Selctt directory >Finish
-once import is completed, Add the JDK
+Once the import is completed, add the JDK.
 
 # Step 1: Check Java Build Path
 Right-click your project (SpringBootStaticProject)
